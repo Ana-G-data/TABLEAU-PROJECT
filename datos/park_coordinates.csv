@@ -1,0 +1,97 @@
+﻿UNRegion;SubregionName;SubregionID;CountryName;CountryCode;MIKEsiteID;MIKEsiteName;Latitude;Longitude
+Africa;Central Africa;FC;Cameroon;CM;BBK;Boumba-Bek;3,5397222;15,2558333
+Africa;Central Africa;FC;Cameroon;CM;WAZ;Waza;11,5591667;15,1186111
+Africa;Central Africa;FC;Central African Republic;CF;BGS;Bangassou;5,2369444;23,37333
+Africa;Central Africa;FC;Central African Republic;CF;DZA;Dzanga-Sangha;2,9503698;16,3071012
+Africa;Central Africa;FC;Central African Republic;CF;SGB;Sangba;8,0258333;20,6891666
+Africa;Central Africa;FC;Chad;TD;ZAK;Zakouma;11,4041667;20,098888
+Africa;Central Africa;FC;Congo;CG;NDK;Nouabale-Ndoki;1,6052014;16,0419676
+Africa;Central Africa;FC;Congo;CG;ODZ;Odzala-Kokoua;0,7683792;15,3008536
+Africa;Central Africa;FC;Congo, Democratic Republic of the;CD;GAR;Garamba;4,2852778;29,083333
+Africa;Central Africa;FC;Congo, Democratic Republic of the;CD;KHB;Kahuzi-Biega;2,5291667;29,273611
+Africa;Central Africa;FC;Congo, Democratic Republic of the;CD;OKP;Okapi;2,1197222;28,820555
+Africa;Central Africa;FC;Congo, Democratic Republic of the;CD;SAL;Salonga;-2;21,000555
+Africa;Central Africa;FC;Congo, Democratic Republic of the;CD;VIR;Virunga;-0,0838889;29,6786111
+Africa;Central Africa;FC;Gabon;GA;LOP;Lope;-0,7366667;11,88
+Africa;Central Africa;FC;Gabon;GA;MKB;Minkebe;1,7977778;12,845
+Africa;Eastern Africa;FE;Eritrea;ER;GSH;Gash-Setit;15,1213889;37,418333
+Africa;Eastern Africa;FE;Ethiopia;ET;BBL;Babille;8,75;42,633333
+Africa;Eastern Africa;FE;Ethiopia;ET;KSH;Kafta-Sheraro;13,9997;37,0003
+Africa;Eastern Africa;FE;Kenya;KE;EGK;Mount Elgon;1,0428817;34,66486222
+Africa;Eastern Africa;FE;Kenya;KE;MRU;Meru;0,16;38,90436111
+Africa;Eastern Africa;FE;Kenya;KE;SBR;Samburu Laikipia;0,6205097;37,52406061
+Africa;Eastern Africa;FE;Kenya;KE;TSV;Tsavo;-3,323942;37,98605573
+Africa;Eastern Africa;FE;Rwanda;RW;AKG;Akagera;-1,6542299;30,625582
+Africa;Eastern Africa;FE;Tanzania, United Republic of;TZ;KTV;Katavi Rukwa;-6,3463577;31,0725417
+Africa;Eastern Africa;FE;Tanzania, United Republic of;TZ;MKZ;Mkomazi;-4,6567652;38,0683495
+Africa;Eastern Africa;FE;Tanzania, United Republic of;TZ;RHR;Ruaha Rungwa;-4,6567652;38,0683495
+Africa;Eastern Africa;FE;Tanzania, United Republic of;TZ;SEL;Selous Mikumi;-7,281622848;37,15891538
+Africa;Eastern Africa;FE;Tanzania, United Republic of;TZ;TGR;Tarangire-Manyara;-3,9123274;36,0437634
+Africa;Eastern Africa;FE;Uganda;UG;MCH;Murchison Falls;2,2655978;31,89775501
+Africa;Eastern Africa;FE;Uganda;UG;QEZ;Queen Elizabeth;-2,242369007;29,94031326
+Africa;Southern Africa;FS;Botswana;BW;CHO;Chobe;-18,3915085;24,7067518
+Africa;Southern Africa;FS;Malawi;MW;KSG;Kasungu;-12,9924877;33,4723567
+Africa;Southern Africa;FS;Malawi;MW;MJT;Majete;-15,97;34,9301961
+Africa;Southern Africa;FS;Mozambique;MZ;LPP;Limpopo;-23,29441619;31,97874733
+Africa;Southern Africa;FS;Mozambique;MZ;MAG;Magoe;-15,8081414;31,7499791
+Africa;Southern Africa;FS;Mozambique;MZ;NIA;Niassa;-12,91716255;37,16747831
+Africa;Southern Africa;FS;Namibia;NA;ETO;Etosha;-18,7829125;16,3166763
+Africa;Southern Africa;FS;Namibia;NA;ZBZ;Zambezi;-17,86153408;23,3003587
+Africa;Southern Africa;FS;South Africa;ZA;KRU;Kruger;-23,9372028;31,47436065
+Africa;Southern Africa;FS;Zambia;ZM;KFE;Kafue;-15,2523867;25,72195835
+Africa;Southern Africa;FS;Zambia;ZM;LZN;Lower Zambezi;-15,4759433;29,69068658
+Africa;Southern Africa;FS;Zambia;ZM;NLW;North Luangwa;-11,88016289;32,18471255
+Africa;Southern Africa;FS;Zambia;ZM;SLW;South Luangwa;-13,058764;31,53704799
+Africa;Southern Africa;FS;Zambia;ZM;SMN;Sioma Ngwezi;-17,2572189;23,43463719
+Africa;Southern Africa;FS;Zimbabwe;ZW;CHE;Chewore;-15,1144954;29,60213317
+Africa;Southern Africa;FS;Zimbabwe;ZW;HWA;Hwange National Park;-19,0573717;26,62219888
+Africa;Southern Africa;FS;Zimbabwe;ZW;MAN;Mana Pools and Sapi;-15,999292;29,4676933
+Africa;Southern Africa;FS;Zimbabwe;ZW;NYA;Nyami Nyami;-19,057371;26,62219888
+Africa;West Africa;FW;Benin;BJ;PDJ;Pendjari;11,242707;41,5873154
+Africa;West Africa;FW;Benin;BJ;WBJ;W du Benin;11,886599;32,70812652
+Africa;West Africa;FW;Burkina Faso;BF;NAZ;Nazinga;11,14413;-1,44645
+Africa;West Africa;FW;Burkina Faso;BF;WBF;W du Burkina;12,39091;2,27456
+Africa;West Africa;FW;Cote dIvoire;CI;COM;Comoe;9,1338349;-3,66170291
+Africa;West Africa;FW;Cote dIvoire;CI;MAR;Marahoue;7,169166;-6,040263055
+Africa;West Africa;FW;Cote dIvoire;CI;TAI;Tai;5,680314738;-7,039011163
+Africa;West Africa;FW;Ghana;GH;KAK;Kakum;5,4286693;-1,34936138
+Africa;West Africa;FW;Ghana;GH;MOL;Mole;9,666587;-1,85222469
+Africa;West Africa;FW;Guinea;GN;ZIA;Ziama;8,24;-9,36
+Africa;West Africa;FW;Liberia;LR;SAP;Sapo;5,7003;-9,3599997
+Africa;West Africa;FW;Mali;ML;GOU;Gourma;17,5738889;2,041666
+Africa;West Africa;FW;Niger;NE;BBR;Baban Rafi;17,5738888;2,01416666
+Africa;West Africa;FW;Niger;NE;WNE;W du Niger;12,33666;2,429320589
+Africa;West Africa;FW;Nigeria;NG;YKR;Yankari;9,82075629;10,51537012
+Africa;West Africa;FW;Senegal;SN;NKK;Niokolo-Koba;12,85290663;-12,8770832
+Africa;West Africa;FW;Togo;TG;FAZ;Fazao Malfakassa;9;0,67271787
+Africa;West Africa;FW;Togo;TG;KER;Keran;10,0486077;0,672717873
+Asia;South Asia;SS;Bangladesh;BD;CHU;Chunati;21,9449564;92,0540999
+Asia;South Asia;SS;Bhutan;BT;SCH;Samtse;27,0276085;88,9953768
+Asia;South Asia;SS;India;IN;CHR;Chirang-Ripu;26,80575;90,39719
+Asia;South Asia;SS;India;IN;DEO;Deomali;18,6747222;82,7941666
+Asia;South Asia;SS;India;IN;DHG;Dihing Patkai;27,345649;95,5430877
+Asia;South Asia;SS;India;IN;EDO;Eastern Dooars;26,55115;89,53553
+Asia;South Asia;SS;India;IN;GRO;Garo Hills;25,567938;90,224464
+Asia;South Asia;SS;India;IN;MBJ;Mayurbhanj;21,166666;85,75
+Asia;South Asia;SS;India;IN;MYS;Mysore;12,499444;77,076111
+Asia;South Asia;SS;India;IN;NIL;Nilgiri;12,25;77,276111
+Asia;South Asia;SS;India;IN;SVK;Shivalik;30,058055;78,2081102
+Asia;South Asia;SS;India;IN;WYD;Wayanad;11,715219;76,1269029
+Asia;South Asia;SS;Nepal;NP;SUK;Shuklaphanta;28,9472156;80,1473686
+Asia;South Asia;SS;Sri Lanka;LK;WPT;Wilpattu;8,41889326;80,0168187
+Asia;South Asia;SS;Sri Lanka;LK;YAL;Yala;6,53756;81,48715955
+Asia;South East Asia;SE;Cambodia;KH;CDM;Cardamom;11,9128308;103,4712568
+Asia;South East Asia;SE;Cambodia;KH;MKR;Mondulkiri;12,46285;107,20351
+Asia;South East Asia;SE;China;CN;XBN;Xishuangbanna;22,1698392;100,8639879
+Asia;South East Asia;SE;Indonesia;ID;BBS;Bukit Barisan Selatan;-5,249999;104,166666
+Asia;South East Asia;SE;Indonesia;ID;WAY;Way Kambas;-4,916663;105,749997
+Asia;South East Asia;SE;Lao Peoples Democratic Republic;LA;NAK;Nakai Nam Theun;17,854352;105,361435
+Asia;South East Asia;SE;Lao Peoples Democratic Republic;LA;NPH;Nam Phui;21,75;104,36667
+Asia;South East Asia;SE;Malaysia;MY;GMS;Taman Negara National Park;4,385188;102,400344
+Asia;South East Asia;SE;Malaysia;MY;KLU;Endau-Rompin National Park;2,42063;103,275398
+Asia;South East Asia;SE;Myanmar;MM;ALW;Alaungdaw Kathapa;22,3124928;94,4620979
+Asia;South East Asia;SE;Myanmar;MM;SHW;Shwe U Daung;23,3868001;96,2897937
+Asia;South East Asia;SE;Thailand;TH;KUI;Kui Buri;11,954686;99,688957
+Asia;South East Asia;SE;Thailand;TH;SKP;Salakphra;15,683;98,97151
+Asia;South East Asia;SE;Viet Nam;VN;CTN;Cat Tien;11,3416653;107,1508327
+Asia;South East Asia;SE;Viet Nam;VN;YKD;Yok Don National Park;12,80375719;107,670654

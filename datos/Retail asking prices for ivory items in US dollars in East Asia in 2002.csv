@@ -1,0 +1,201 @@
+Pais;Elemento;Medida;Min/Max;Value
+China;Animal figurine;5-6cm;Min;32,00
+China;Animal figurine;5-6cm;Max;549,00
+China;Animal figurine;10cm;Min;240,00
+China;Animal figurine;10cm;Max;773,00
+China;Animal figurine;20cm;Min;366,00
+China;Animal figurine;20cm;Max;976,00
+Hong Kong;Animal figurine;5-6cm;Min;31,00
+Hong Kong;Animal figurine;5-6cm;Max;277,00
+Hong Kong;Animal figurine;10cm;Min;409,00
+Hong Kong;Animal figurine;10cm;Max;674,00
+Hong Kong;Animal figurine;20cm;Min;
+Hong Kong;Animal figurine;20cm;Max;
+Japan;Animal figurine;5-6cm;Min;192,00
+Japan;Animal figurine;5-6cm;Max;680,00
+Japan;Animal figurine;10cm;Min;
+Japan;Animal figurine;10cm;Max;
+Japan;Animal figurine;20cm;Min;2080,00
+Japan;Animal figurine;20cm;Max;4000,00
+Taiwan;Animal figurine;5-6cm;Min;103,00
+Taiwan;Animal figurine;5-6cm;Max;176,00
+Taiwan;Animal figurine;10cm;Min;294,00
+Taiwan;Animal figurine;10cm;Max;294,00
+Taiwan;Animal figurine;20cm;Min;
+Taiwan;Animal figurine;20cm;Max;
+South Korea;Animal figurine;5-6cm;Min;114,00
+South Korea;Animal figurine;5-6cm;Max;114,00
+South Korea;Animal figurine;10cm;Min;
+South Korea;Animal figurine;10cm;Max;
+South Korea;Animal figurine;20cm;Min;
+South Korea;Animal figurine;20cm;Max;
+China;Bangle;1-1,5cm;Min;22,00
+China;Bangle;1-1,5cm;Max;61,00
+China;Bangle;2-3cm;Min;91,00
+China;Bangle;2-3cm;Max;112,00
+Hong Kong;Bangle;1-1,5cm;Min;23,00
+Hong Kong;Bangle;1-1,5cm;Max;44,00
+Hong Kong;Bangle;2-3cm;Min;54,00
+Hong Kong;Bangle;2-3cm;Max;77,00
+Japan;Bangle;1-1,5cm;Min;84,00
+Japan;Bangle;1-1,5cm;Max;184,00
+Japan;Bangle;2-3cm;Min;184,00
+Japan;Bangle;2-3cm;Max;240,00
+Taiwan;Bangle;1-1,5cm;Min;59,00
+Taiwan;Bangle;1-1,5cm;Max;65,00
+Taiwan;Bangle;2-3cm;Min;88,00
+Taiwan;Bangle;2-3cm;Max;118,00
+South Korea;Bangle;1-1,5cm;Min;379,00
+South Korea;Bangle;1-1,5cm;Max;
+South Korea;Bangle;2-3cm;Min;
+South Korea;Bangle;2-3cm;Max;
+China;Chopsticks, pair;20cm;Min;30,00
+China;Chopsticks, pair;20cm;Max;189,00
+Hong Kong;Chopsticks, pair;20cm;Min;18,00
+Hong Kong;Chopsticks, pair;20cm;Max;86,00
+Japan;Chopsticks, pair;20cm;Min;128,00
+Japan;Chopsticks, pair;20cm;Max;416,00
+Taiwan;Chopsticks, pair;20cm;Min;88,00
+Taiwan;Chopsticks, pair;20cm;Max;160,00
+South Korea;Chopsticks, pair;20cm;Min;27,00
+South Korea;Chopsticks, pair;20cm;Max;27,00
+China;Cigarette holder;10-15cm;Min;16,00
+China;Cigarette holder;10-15cm;Max;44,00
+Hong Kong;Cigarette holder;10-15cm;Min;33,00
+Hong Kong;Cigarette holder;10-15cm;Max;36,00
+Japan;Cigarette holder;10-15cm;Min;168,00
+Japan;Cigarette holder;10-15cm;Max;1920,00
+Taiwan;Cigarette holder;10-15cm;Min;47,00
+Taiwan;Cigarette holder;10-15cm;Max;74,00
+South Korea;Cigarette holder;10-15cm;Min;
+South Korea;Cigarette holder;10-15cm;Max;
+China;Human figurine;5-6cm;Min;32,00
+China;Human figurine;5-6cm;Max;549,00
+China;Human figurine;10cm;Min;31,00
+China;Human figurine;10cm;Max;192,00
+China;Human figurine;20cm;Min;576,00
+China;Human figurine;20cm;Max;6800,00
+China;Human figurine;40cm;Min;88,00
+China;Human figurine;40cm;Max;365,00
+China;Human figurine;50-60cm;Min;227,00
+China;Human figurine;50-60cm;Max;227,00
+Hong Kong;Human figurine;5-6cm;Min;31,00
+Hong Kong;Human figurine;5-6cm;Max;192,00
+Hong Kong;Human figurine;10cm;Min;292,00
+Hong Kong;Human figurine;10cm;Max;1209,00
+Hong Kong;Human figurine;20cm;Min;764,00
+Hong Kong;Human figurine;20cm;Max;1933,00
+Hong Kong;Human figurine;40cm;Min;8333,00
+Hong Kong;Human figurine;40cm;Max;8769,00
+Hong Kong;Human figurine;50-60cm;Min;3244,00
+Hong Kong;Human figurine;50-60cm;Max;30769,00
+Japan;Human figurine;5-6cm;Min;576,00
+Japan;Human figurine;5-6cm;Max;6800,00
+Japan;Human figurine;10cm;Min;1600,00
+Japan;Human figurine;10cm;Max;8000,00
+Japan;Human figurine;20cm;Min;4800,00
+Japan;Human figurine;20cm;Max;30400,00
+Japan;Human figurine;40cm;Min;
+Japan;Human figurine;40cm;Max;
+Japan;Human figurine;50-60cm;Min;
+Japan;Human figurine;50-60cm;Max;
+Taiwan;Human figurine;5-6cm;Min;88,00
+Taiwan;Human figurine;5-6cm;Max;365,00
+Taiwan;Human figurine;10cm;Min;118,00
+Taiwan;Human figurine;10cm;Max;706,00
+Taiwan;Human figurine;20cm;Min;2500,00
+Taiwan;Human figurine;20cm;Max;2941,00
+Taiwan;Human figurine;40cm;Min;
+Taiwan;Human figurine;40cm;Max;
+Taiwan;Human figurine;50-60cm;Min;
+Taiwan;Human figurine;50-60cm;Max;
+South Korea;Human figurine;5-6cm;Min;227,00
+South Korea;Human figurine;5-6cm;Max;227,00
+South Korea;Human figurine;10cm;Min;189,00
+South Korea;Human figurine;10cm;Max;606,00
+South Korea;Human figurine;20cm;Min;
+South Korea;Human figurine;20cm;Max;
+South Korea;Human figurine;40cm;Min;758,00
+South Korea;Human figurine;40cm;Max;758,00
+South Korea;Human figurine;50-60cm;Min;
+South Korea;Human figurine;50-60cm;Max;
+China;Necklace, beaded;small;Min;24,00
+China;Necklace, beaded;small;Max;133,00
+China;Necklace, beaded;large;Min;52,00
+China;Necklace, beaded;large;Max;238,00
+Hong Kong;Necklace, beaded;small;Min;23,00
+Hong Kong;Necklace, beaded;small;Max;71,00
+Hong Kong;Necklace, beaded;large;Min;43,00
+Hong Kong;Necklace, beaded;large;Max;71,00
+Japan;Necklace, beaded;small;Min;40,00
+Japan;Necklace, beaded;small;Max;384,00
+Japan;Necklace, beaded;large;Min;144,00
+Japan;Necklace, beaded;large;Max;600,00
+Taiwan;Necklace, beaded;small;Min;40,00
+Taiwan;Necklace, beaded;small;Max;176,00
+Taiwan;Necklace, beaded;large;Min;118,00
+Taiwan;Necklace, beaded;large;Max;176,00
+South Korea;Necklace, beaded;small;Min;
+South Korea;Necklace, beaded;small;Max;
+South Korea;Necklace, beaded;large;Min;
+South Korea;Necklace, beaded;large;Max;
+China;Pendant/broach;3cm;Min;5,00
+China;Pendant/broach;3cm;Max;98,00
+Hong Kong;Pendant/broach;3cm;Min;11,00
+Hong Kong;Pendant/broach;3cm;Max;42,00
+Japan;Pendant/broach;3cm;Min;144,00
+Japan;Pendant/broach;3cm;Max;200,00
+Taiwan;Pendant/broach;3cm;Min;26,00
+Taiwan;Pendant/broach;3cm;Max;35,00
+South Korea;Pendant/broach;3cm;Min;
+South Korea;Pendant/broach;3cm;Max;
+China;Ring, plain;small;Min;2,00
+China;Ring, plain;small;Max;18,00
+Hong Kong;Ring, plain;small;Min;7,00
+Hong Kong;Ring, plain;small;Max;36,00
+Japan;Ring, plain;small;Min;14,00
+Japan;Ring, plain;small;Max;128,00
+Taiwan;Ring, plain;small;Min;3,00
+Taiwan;Ring, plain;small;Max;9,00
+South Korea;Ring, plain;small;Min;
+South Korea;Ring, plain;small;Max;
+China;Tusk, carved;35-40cm;Min;1100,00
+China;Tusk, carved;35-40cm;Max;4638,00
+China;Tusk, carved;60-65cm;Min;4634,00
+China;Tusk, carved;60-65cm;Max;6098,00
+China;Tusk, carved;90-100cm;Min;11585,00
+China;Tusk, carved;90-100cm;Max;43902,00
+Hong Kong;Tusk, carved;35-40cm;Min;1179,00
+Hong Kong;Tusk, carved;35-40cm;Max;2692,00
+Hong Kong;Tusk, carved;60-65cm;Min;2674,00
+Hong Kong;Tusk, carved;60-65cm;Max;8013,00
+Hong Kong;Tusk, carved;90-100cm;Min;3590,00
+Hong Kong;Tusk, carved;90-100cm;Max;9615,00
+Japan;Tusk, carved;35-40cm;Min;
+Japan;Tusk, carved;35-40cm;Max;
+Japan;Tusk, carved;60-65cm;Min;7120,00
+Japan;Tusk, carved;60-65cm;Max;7120,00
+Japan;Tusk, carved;90-100cm;Min;7120,00
+Japan;Tusk, carved;90-100cm;Max;36000,00
+Taiwan;Tusk, carved;35-40cm;Min;
+Taiwan;Tusk, carved;35-40cm;Max;
+Taiwan;Tusk, carved;60-65cm;Min;
+Taiwan;Tusk, carved;60-65cm;Max;
+Taiwan;Tusk, carved;90-100cm;Min;
+Taiwan;Tusk, carved;90-100cm;Max;
+South Korea;Tusk, carved;35-40cm;Min;1894,00
+South Korea;Tusk, carved;35-40cm;Max;1894,00
+South Korea;Tusk, carved;60-65cm;Min;
+South Korea;Tusk, carved;60-65cm;Max;
+South Korea;Tusk, carved;90-100cm;Min;
+South Korea;Tusk, carved;90-100cm;Max;
+China;Tusk, polished;60cm;Min;3903,00
+China;Tusk, polished;60cm;Max;3903,00
+Hong Kong;Tusk, polished;60cm;Min;955,00
+Hong Kong;Tusk, polished;60cm;Max;3820,00
+Japan;Tusk, polished;60cm;Min;
+Japan;Tusk, polished;60cm;Max;
+Taiwan;Tusk, polished;60cm;Min;
+Taiwan;Tusk, polished;60cm;Max;
+South Korea;Tusk, polished;60cm;Min;
+South Korea;Tusk, polished;60cm;Max;
